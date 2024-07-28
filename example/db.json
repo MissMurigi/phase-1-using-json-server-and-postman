@@ -1,14 +1,14 @@
 {
-  "articles": [
+  "playlist": [
     {
       "id": 1,
-      "title": "Example Article",
-      "content": "This is an example."
+      "title": "AfroBeats",
+      "Musicians": "Tems,BurnaBoy,Rema,Ayra."
     },
     {
       "id": 2,
-      "title": "Second Article",
-      "content": "This is also an example."
+      "title": "SlowJams",
+      "Musicians": "SZA,Kiana,James.A."
     }
   ]
 }
